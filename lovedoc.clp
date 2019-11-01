@@ -1,11 +1,5 @@
 /**
-* Final project for the expert systems course
-*
-*
-*
-* This is a program based on the expertise of Yu Wang, founder of
-* the chinese dating app Tantan. The premise of the program focuses on
-* straight people, and the ability to determine if someone is a match for the user.
+* LOVEDOC has the ability to determine if someone is a match for the user.
 * The user enters data based on the situation they are in, and the program
 * determines the correct path to take and the possibility of success in the
 * courtship of the said man or woman.
