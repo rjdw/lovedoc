@@ -1,4 +1,4 @@
-#LOVEDOC
+# LOVEDOC
 
 The LOVEDOC is an expert system for those facing difficult situations in
 their love life. This expert system claims to have the ability to
@@ -9,7 +9,7 @@ The user enters data based on the situation they are in, and the program
 determines the correct path to take and the possibility of success in the
 courtship of the said man or woman.
 
-##System
+## System
 
 LOVEDOC is written in Lisp, for the Java Expert System Shell (jess).
 The program must be run from an installation of the jess shell.
