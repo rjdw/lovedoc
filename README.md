@@ -16,3 +16,9 @@ The program must be run from an installation of the jess shell.
 
 LOVEDOC is implemented upon the Rete Algorithm for production-rule
 systems, and uses backward chaining for most of its primary computations.
+
+## Disclaimer
+
+The expert system does not claim to have the correct solution to a 
+problem, only the solution recommended by an expert. In this case, 
+the system was based of the advice from a dating 'guru'.
